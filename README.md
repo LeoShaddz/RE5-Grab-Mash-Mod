@@ -1,4 +1,4 @@
-# Resident Evil 5  Grab Mash
+# Resident Evil 5  Grab Mash Mod
 
 This quality-of-life mod allows you to break free simply from a enemy grab by holding the 'F' key on your keyboard or the 'A' button on your controller. The keyboard key is customizable. 
 
